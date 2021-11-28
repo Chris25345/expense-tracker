@@ -1,6 +1,6 @@
 ## React-приложение для учета расходов и доходов
 
-<img src="pictures/app.png" alt="drawing" width="350" height="500" />
+<img src="pictures/app.png" alt="drawing" width="400" height="500" />
 
 ## Getting Started with Create React App
 
